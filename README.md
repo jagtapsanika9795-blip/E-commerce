@@ -56,6 +56,7 @@ Cart Page
 checkout page 
 <img width="959" height="479" alt="Image" src="https://github.com/user-attachments/assets/c1361485-d626-4b03-8a53-178e13ad5a41" />
 <img width="960" height="479" alt="Image" src="https://github.com/user-attachments/assets/d82001ce-d382-4430-a65d-30dd67894160" />
-
+order confirmation
+<img width="959" height="476" alt="Image" src="https://github.com/user-attachments/assets/d5c5f3cc-b51a-47ea-b38e-c825a994034b" />
 ## 👩‍💻 Author
 Sanika Jagtap
