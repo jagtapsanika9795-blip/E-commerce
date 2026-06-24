@@ -43,6 +43,7 @@ To implement modern web development practices.
 ## 📸 Screenshots
 About us
 <img width="960" height="510" alt="Image" src="https://github.com/user-attachments/assets/76fa7fc8-f60e-438a-8173-e90b900f9f5c" />
+<img width="959" height="446" alt="Image" src="https://github.com/user-attachments/assets/5189d13b-0e58-478b-b948-3db57a357275" />
 Home Page
 
 <img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/4f13675b-f002-4802-9034-b00ab6c93ac9" />
