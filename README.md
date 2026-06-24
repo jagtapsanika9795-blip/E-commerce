@@ -54,7 +54,8 @@ contact us Page
 Cart Page
 <img width="958" height="480" alt="Image" src="https://github.com/user-attachments/assets/a7757959-1c3a-4117-ad97-e62f44793a29" />
 checkout page 
-<img width="960" height="479" alt="Image" src="https://github.com/user-attachments/assets/d82001ce-d382-4430-a65d-30dd67894160" />
 <img width="959" height="479" alt="Image" src="https://github.com/user-attachments/assets/c1361485-d626-4b03-8a53-178e13ad5a41" />
+<img width="960" height="479" alt="Image" src="https://github.com/user-attachments/assets/d82001ce-d382-4430-a65d-30dd67894160" />
+
 ## 👩‍💻 Author
 Sanika Jagtap
