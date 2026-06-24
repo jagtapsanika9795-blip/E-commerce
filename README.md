@@ -41,7 +41,11 @@ To simplify online shopping.
 To provide an interactive and responsive user experience.
 To implement modern web development practices.
 ## 📸 Screenshots
+About us
+
 Home Page
+<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/4fbf653e-75e0-46d1-9979-a28a2cb217f6" />
+<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/e78550ca-0491-4137-be4e-2b01cb430f3e" />
 Product Page
 Cart Page
 
