@@ -51,6 +51,8 @@ Home Page
 contact us Page
 <img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/9ad1f1bd-59d9-4018-abb7-749e6558d21e" />
 <img width="953" height="475" alt="Image" src="https://github.com/user-attachments/assets/63f6bd42-2d36-4fa8-80f2-27e3d36014b1" />
+serch page 
+<img width="957" height="478" alt="Image" src="https://github.com/user-attachments/assets/74a3aa00-ef3f-4af4-81c4-cebe9985ac8d" />
 Cart Page
 <img width="958" height="480" alt="Image" src="https://github.com/user-attachments/assets/a7757959-1c3a-4117-ad97-e62f44793a29" />
 checkout page 
