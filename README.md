@@ -42,7 +42,7 @@ To provide an interactive and responsive user experience.
 To implement modern web development practices.
 ## 📸 Screenshots
 About us
-
+<img width="960" height="510" alt="Image" src="https://github.com/user-attachments/assets/76fa7fc8-f60e-438a-8173-e90b900f9f5c" />
 Home Page
 <img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/4fbf653e-75e0-46d1-9979-a28a2cb217f6" />
 <img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/e78550ca-0491-4137-be4e-2b01cb430f3e" />
