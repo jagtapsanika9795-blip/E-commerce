@@ -48,7 +48,7 @@ Home Page
 <img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/e78550ca-0491-4137-be4e-2b01cb430f3e" />
 contact us Page
 <img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/9ad1f1bd-59d9-4018-abb7-749e6558d21e" />
-
+<img width="953" height="475" alt="Image" src="https://github.com/user-attachments/assets/63f6bd42-2d36-4fa8-80f2-27e3d36014b1" />
 Cart Page
 
 ## 👩‍💻 Author
